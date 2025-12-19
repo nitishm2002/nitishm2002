@@ -20,10 +20,6 @@
   />
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitishm2002&label=Profile%20views&color=0e75b6&style=flat" alt="nitishm2002" />
-</p>
-
 - 🔭 I'm currently working on **DevOps**
 
 - 🌱 I'm currently learning **AI/ML**
