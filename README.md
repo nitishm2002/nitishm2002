@@ -1,10 +1,28 @@
+<!-- ================== BANNER IMAGE ================== -->
+<p align="center">
+  <img 
+    src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp"
+    width="100%"
+    height="100%"
+    alt="DevOps AI Banner"
+  />
+</p>
+
 # Hi 👋, I'm Nitish Mahto
 
 ### Software Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishm2002&label=Profile views&color=0e75b6&style=flat" alt="nitishm2002" /> </p>
+<!-- ================== LOGO IMAGE ================== -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishm2002" alt="nitishm2002" /></a> </p>
+  <img  src="https://img.freepik.com/premium-photo/cartoon-programmer-working-software-testing_1138224-13049.jpg?semt=ais_hybrid&w=740&q=80"
+   align="right" alt="coding" width="450"
+    alt="Dev Logo"
+  />
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitishm2002&label=Profile%20views&color=0e75b6&style=flat" alt="nitishm2002" />
+</p>
 
 - 🔭 I'm currently working on **DevOps**
 
@@ -27,6 +45,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishm2002&show_icons=true&locale=en&layout=compact" alt="nitishm2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishm2002&show_icons=true&locale=en" alt="nitishm2002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishm2002&" alt="nitishm2002" /></p>
 
